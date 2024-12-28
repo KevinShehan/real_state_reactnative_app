@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "chet",
-    "slug": "chet",
+    "name": "react_native_realstate",
+    "slug": "react_native_realstate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "restate",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
